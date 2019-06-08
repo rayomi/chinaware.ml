@@ -20,7 +20,7 @@ body {
         left: 0;
         right: 0;
         margin-top: -150px;
-        height: 300px;
+        height: 400px;
         z-index: 1000;
 }
 ul{
@@ -37,10 +37,10 @@ a{
     color: #fff;
 }
 .center{
-    width: 400px; /* Ширина слоя в пикселах */
-    margin: 0 auto; /* Отступ слева и справа */
-    padding: 10px; /* Поля вокруг текста */
-    text-align: center; /* Выравнивание содержимого слоя по левому краю */
+    width: 400px; /* Layer width in pixels */
+    margin: 0 auto; /* Indent left and right */
+    padding: 10px; /* Fields around text */
+    text-align: center; /* Align the contents of the layer to the left */
 }
 .nick{
     font-size:30px;
