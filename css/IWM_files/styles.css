@@ -28,9 +28,9 @@ ul{
     font-size: 150%;
 }
 li{
-    display: inline; /* Отображать как строчный элемент */
-    margin-right: 5px; /* Отступ слева */
-    padding: 3px; /* Поля вокруг текста */
+    display: inline; /* Display as line item */
+    margin-right: 5px; /* Left indent */
+    padding: 3px; /* Fields around text */
 }
 a{
     text-decoration: none;
